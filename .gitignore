@@ -1,0 +1,16 @@
+# virtual env
+venv/
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# エディタ・OS依存
+.vscode/
+.idea/
+.DS_Store
+
+# Django特有
+db.sqlite3
+*.log
